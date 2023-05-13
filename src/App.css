@@ -1,0 +1,48 @@
+body {
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  color: #666;
+}
+
+select {
+  font-size: 16px;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+.container {
+  max-width: 700px;
+  margin: 115px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.problem {
+  margin-bottom: 20px;
+}
+
+.problem h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.problem p {
+  color: #666;
+  margin-bottom: 15px;
+}
